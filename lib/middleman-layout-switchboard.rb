@@ -26,7 +26,7 @@ class LayoutSwitchboard < ::Middleman::Extension
 
   def after_configuration
     @app.sitemap.register_resource_list_manipulator(
-        :heading_as_title,
+        :layout_switchboard,
         self,
         false
     )
