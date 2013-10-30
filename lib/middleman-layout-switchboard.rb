@@ -6,11 +6,11 @@ class LayoutSwitchboard < ::Middleman::Extension
   option :trigger_layout, {}, "Options that will trigger a layout, and the layout it triggers."
   # An example:
   # activate :layout_switchboard do |switchboard|
-  # switchboard.trigger_layout = {
+  # switchboard.trigger_layout = [
   #    {:region => 'Albania',     :layout => 'albanianstyle'},
   #    {:region => 'New Zealand', :layout => 'kiwistyle'},
   #    {:tag => 'Sweden',         :layout => 'scandinaviandesign'}
-  # }
+  # ]
   # This will trigger on the first match. If the page frontmatter has an 'region' option with the value 'Albania',
   # the layout template 'albanianstyle.haml' (or .erb or whatever) will be used. If not, the extension will
   # continue and look for a 'region' option 'New Zealand', and then a tag with the value 'Sweden'.

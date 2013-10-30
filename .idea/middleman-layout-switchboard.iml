@@ -24,18 +24,19 @@
     <orderEntry type="library" scope="PROVIDED" name="fivemat (v1.2.1, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="gherkin (v2.12.2, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v0.6.5, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="json (v1.8.1, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="kramdown (v1.2.0, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="listen (v1.3.1, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="middleman-core (v3.1.6, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="middleman-more (v3.1.6, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.8.2, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_test (v0.0.2, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v1.5.2, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.2, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rake (v10.1.0, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v10.0.4, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rb-fsevent (v0.9.3, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rb-inotify (v0.9.2, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rb-kqueue (v0.2.0, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rdoc (v4.0.1, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="redcarpet (v3.0.0, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rspec (v2.14.1, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rspec-core (v2.14.6, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rspec-expectations (v2.14.3, RVM: ruby-1.9.3-p392 [middleman]) [gem]" level="application" />
