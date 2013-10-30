@@ -18,14 +18,14 @@ end
 
 To configure, fill the array with suitable values. An example:
 
-...
+```
 activate :layout_switchboard do |switchboard|
   switchboard.trigger_layout = [
     {:region => 'Albania',     :layout => 'albanianstyle'},
     {:region => 'New Zealand', :layout => 'kiwistyle'},
     {:tag => 'Sweden',         :layout => 'scandinaviandesign'}
   ]
-...
+```
 
 First of all, it the page has a `layout:` option in its front matter, it will take precedence.
 
