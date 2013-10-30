@@ -35,7 +35,7 @@ In this case, it will first look for a `region:` option with the value `Albania`
 
 If not found, it will look for New Zealand.
 
-Then it will look for a tag. This behaves slightly different. It will look for a `tags:` option, parse it into individual tags and see if any of those matches.
+Then it will look for a 'Sweden' tag. This behaves slightly different. It will look for a `tags:` option, parse it into individual tags and see if any of those matches.
 
 ## License
 
