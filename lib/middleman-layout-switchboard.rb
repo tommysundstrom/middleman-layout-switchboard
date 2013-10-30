@@ -42,7 +42,7 @@ class LayoutSwitchboard < ::Middleman::Extension
 
       # If there already is a :layout variable, it will take priority
       next if resource.data[:layout]       # POTENTIAL BUG. I don't think this will notice if another extension already
-                                           # has added an layout (which I presume would end up in the metadata)?
+                                           # has added an layout (which I assume would end up in the metadata)?
 
       # Checking for a matching variable
       # trigger_key - The front matter variable that is looked at
