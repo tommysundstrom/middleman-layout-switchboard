@@ -31,7 +31,7 @@ First of all, it the page has a `layout:` option in its front matter, it will ta
 
 Else, the list will be searched until a match is found.
 
-In this case, it will first look for a `region:` option with the value `Albania` (case sensitive). If found, a layout named `albanianstyle` will be used.
+In this case, it will first look for a `region:` option with the value 'Albania' (case sensitive). If found, a layout named `albanianstyle` will be used.
 
 If not found, it will look for New Zealand.
 
