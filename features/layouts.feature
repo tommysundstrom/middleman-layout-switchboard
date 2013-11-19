@@ -21,3 +21,11 @@ Feature: Layouts
     When I go to "article-without-layout.html"
     Then I should not see "Default Layout"
     And I should see "Article Content"
+  Scenario: With an variable (section:) set to 'Användbarhetsboken' in frontmatter, the corresponding layout should be used
+    When I go to "article-with-layout-set-by-section-anvandbarhetsboken.html"
+    Then I should see "Användbarhetsboken Alternative Layout"
+    And I should see "Layout set in section variable Content"
+  Scenario: With an variable (section:) set to 'Strategisk design' in frontmatter, the corresponding layout should be used
+    When I go to "article-with-layout-set-by-section-strategiskdesign.html"
+    Then I should see "Strategisk design Alternative Layout"
+    And I should see "Layout set in section variable Content"

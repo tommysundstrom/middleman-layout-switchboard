@@ -6,7 +6,7 @@ gem "middleman-more"		#, :github => "middleman/middleman"
 # Specify your gem's dependencies in middleman-blog.gemspec
 gemspec
 
-gem "rake",     "~> 10.0.3", :require => false/Users/Tommy/Tillf/BokmarktPA05.txt
+gem "rake",     "~> 10.0.3", :require => false
 gem "yard",     "~> 0.8.0", :require => false
 
 # Test tools
