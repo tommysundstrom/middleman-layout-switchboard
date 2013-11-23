@@ -6,7 +6,7 @@
 
 Add
 
-`gem "middleman-layout-switchboard", :git => 'https://github.com/tommysundstrom/middleman-layout-switchboard.git' `
+`gem "middleman-layout-switchboard", :git => 'https://github.com/tommysundstrom/middleman-layout-switchboard.git'`
 
 to your `Gemfile` and run `bundle install`
 
