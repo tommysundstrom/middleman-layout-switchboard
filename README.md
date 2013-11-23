@@ -4,7 +4,11 @@
 
 ## Installation
 
-Add `gem "middleman-layout-switchboard"` to your `Gemfile` and run `bundle install`
+Add
+
+`gem "middleman-layout-switchboard", :git => 'https://github.com/tommysundstrom/middleman-layout-switchboard.git' `
+
+to your `Gemfile` and run `bundle install`
 
 ## Configuration
 
